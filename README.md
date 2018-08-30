@@ -2,7 +2,7 @@
 Collate and develop network security, Hackers technical documentation and tools, code.
 #渗透艺术--kali Linux学习
 #信息安全科学--网络攻防
-注意：本人只是学习网络信息安全，没有恶意传播，扰乱网络环境，用于违法犯纪的后果自负！
+##注意：本人只是学习网络信息安全，没有恶意传播，扰乱网络环境，用于违法犯纪的后果自负！
 
 &#9775;
 [Hidden Wiki | Tor .onion urls directories](http://www.thehiddenwiki.org/)
@@ -14,7 +14,7 @@ Collate and develop network security, Hackers technical documentation and tools,
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| Kali [💖](#-kali-linux) | 操作系统[:computer:](#computer-操作系统)|网络[:cloud:](#cloud-网络) | 面向对象[:couple:](#couple-面向对象) |数据库[:floppy_disk:](#floppy_disk-数据库)| Java [:coffee:](#coffee-java)| 系统设计[:bulb:](#bulb-系统设计)| 工具[:hammer:](#hammer-工具)| 编码实践[:speak_no_evil:](#speak_no_evil-编码实践)| 后记[:memo:](#memo-后记) |
+| Kali [💖](#-kali-linux) | VPS/VPN[⛩](#computer-操作系统)|Dark Web[:cloud:](#cloud-网络) | Deep Web[:couple:](#couple-面向对象) |数据库[:floppy_disk:](#floppy_disk-数据库)| Java [:coffee:](#coffee-java)| 系统设计[:bulb:](#bulb-系统设计)| 工具[:hammer:](#hammer-工具)| 编码实践[:speak_no_evil:](#speak_no_evil-编码实践)| 后记[:memo:](#memo-后记) |
 
 <br>
 <div align="center">
