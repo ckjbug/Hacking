@@ -28,8 +28,7 @@ Collate and develop network security, Hackers technical documentation and tools,
 
 ### 💖 Kali Linux
 
-
-
+![pp](https://i.imgur.com/bZw1kV4.gif)
 
 
 
