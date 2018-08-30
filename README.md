@@ -13,7 +13,7 @@ Collate and develop network security, Hackers technical documentation and tools,
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#VPN-VPS)|Dark Web[🌚](#Dark-Web) | Deep Web[🌑](#Deep-Web) |Crack [💻](#Crack)| Java [🕸](#coffee-java)| 系统设计[☣](#bulb-系统设计)| Tools [🛠](#hammer-工具)| Shodan [👣](#speak_no_evil-编码实践)| Forum [&#9762;](#memo-Forum) |
+| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#VPN-VPS)|Dark Web[🌚](#Dark-Web) | Deep Web[🌑](#Deep-Web) |Crack [💻](#Crack)| Java [🕸](#coffee-java)| Linux [⌨](#bulb-系统设计)| Tools [🛠](#hammer-工具)| Shodan [👣](#speak_no_evil-编码实践)| Forum [☣](#memo-Forum) |
 
 <br>
 <div align="center">
@@ -29,7 +29,7 @@ Collate and develop network security, Hackers technical documentation and tools,
 ![pp](https://i.imgur.com/bZw1kV4.gif)
 
 
-### &#9762; 论坛
+### ☣ 论坛
 
 [Hack80](http://www.hack80.com/)
 
