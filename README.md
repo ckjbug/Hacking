@@ -23,7 +23,7 @@
     <a href="https://legacy.gitbook.com/@wizardforcel"> <img src="https://img.shields.io/badge/_-gitbook-4ab8a1.svg"></a> 
 </div>
 
-![pp](https://i.imgur.com/bZw1kV4.gif)
+  ![pp](https://i.imgur.com/bZw1kV4.gif)
 
 ----------
 
