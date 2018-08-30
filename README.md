@@ -13,7 +13,7 @@
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#VPN-VPS)|Dark Web[🌚](#Dark-Web) | Deep Web[🌑](#Deep-Web) |Crack [💻](#Crack)| Java [🕸](#coffee-java)| Linux [⌨](#bulb-系统设计)| Tools [🛠](#hammer-工具)| Shodan [☣](#speak_no_evil-编码实践)| Forum [👣](#memo-Forum) |
+| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#VPN-VPS)|Dark Web[🌚](#Dark-Web) | Deep Web[🌑](#Deep-Web) |Crack [💻](#Crack)| RE [🕸](#逆向工程)| Linux [⌨](#bulb-系统设计)| Tools [🛠](#hammer-工具)| Shodan [☣](#speak_no_evil-编码实践)| Forum [👣](#memo-Forum) |
 
 <br>
 <div align="center">
