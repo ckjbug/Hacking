@@ -10,3 +10,4 @@ Collate and develop network security, Hackers technical documentation and tools,
 &#9762;
 [Hack80](http://www.hack80.com/)
 
+:computer:其他仓库有信安的学习资料和Kali Linux的运维教程，欢迎Fork！
