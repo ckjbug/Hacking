@@ -1,5 +1,5 @@
 # Hacking
-🇨🇰 Collate and develop network security, Hackers technical documentation and tools, code.
+Collate and develop network security, Hackers technical documentation and tools, code.
 #渗透艺术--kali Linux
 #信息安全科学--网络攻防
 #科学上网
@@ -13,7 +13,7 @@
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#VPN-VPS)|Dark Web[🌚](#Dark-Web) | Deep Web[🌑](#Deep-Web) |Crack [🍘](#Crack)| Java [🕸](#coffee-java)| 系统设计[☣](#bulb-系统设计)| Tools [🛠](#hammer-工具)| Shodan [👣](#speak_no_evil-编码实践)| Forum [&#9762;](#memo-Forum) |
+| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#VPN-VPS)|Dark Web[🌚](#Dark-Web) | Deep Web[🌑](#Deep-Web) |Crack [💻](#Crack)| Java [🕸](#coffee-java)| 系统设计[☣](#bulb-系统设计)| Tools [🛠](#hammer-工具)| Shodan [👣](#speak_no_evil-编码实践)| Forum [&#9762;](#memo-Forum) |
 
 <br>
 <div align="center">
