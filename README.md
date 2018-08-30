@@ -31,6 +31,22 @@
 ![pp](https://i.imgur.com/bZw1kV4.gif)
 
 
+### ⛩ VPS/VPN
+
+### 🌚 Dark Web
+
+### 🌑 Deep Web
+
+### 💻 Crack
+
+### 🕸 RE
+
+### ⌨ Linux
+
+### 🛠 Tools 
+
+### ☣ Shodan
+
 ### 👣 论坛
 
 [Hack80](http://www.hack80.com/)
