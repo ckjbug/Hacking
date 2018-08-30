@@ -13,7 +13,7 @@
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#-vpsvpn)|Dark Web[🌚](#-dark-web) | Deep Web[🌑](#-Deep-Web) |Crack [💻](#Crack)| RE [🕸](#逆向工程)| Linux [⌨](#bulb-系统设计)| Tools [🛠](#hammer-工具)| Shodan [☣](#speak_no_evil-编码实践)| Forum [👣](#memo-Forum) |
+| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#-vpsvpn)|Dark Web[🌚](#-dark-web) | Deep Web[🌑](#-deep-web) |Crack [💻](#-crack)| RE [🕸](#-re)| Linux [⌨](#-linux)| Tools [🛠](#-tools)| Shodan [☣](#-shodan)| Forum [👣](#-论坛) |
 
 <br>
 <div align="center">
@@ -32,25 +32,33 @@
 
 
 ### ⛩ VPS/VPN
+...
 
 ### 🌚 Dark Web
+...
 
 ### 🌑 Deep Web
+...
 
 ### 💻 Crack
+...
 
 ### 🕸 RE
+...
 
 ### ⌨ Linux
+...
 
 ### 🛠 Tools 
+...
 
 ### ☣ Shodan
+...
 
 ### 👣 论坛
 
 [Hack80](http://www.hack80.com/)
-
+...
 
 
 :computer:其他仓库有信安的学习资料和Kali Linux的运维教程，欢迎Fork！
