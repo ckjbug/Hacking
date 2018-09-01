@@ -26,7 +26,7 @@
 
 ----------
 
-<img src="https://i.imgur.com/bZw1kV4.gif" width = "100" height = "100" div align=center />
+<img src="https://i.imgur.com/bZw1kV4.gif" width = "300" height = "300" div align=center />
 
 
 ### 💖 Kali Linux
