@@ -26,7 +26,7 @@
 
 ----------
 
-![pp](https://i.imgur.com/bZw1kV4.gif)
+<div align=center>![pp](https://i.imgur.com/bZw1kV4.gif)
 
 ### 💖 Kali Linux
 ...
