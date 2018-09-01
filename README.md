@@ -26,7 +26,8 @@
 
 ----------
 
-<div align=center>![pp](https://i.imgur.com/bZw1kV4.gif)
+<img src="https://i.imgur.com/bZw1kV4.gif" width = "100" height = "100" div align=center />
+
 
 ### 💖 Kali Linux
 ...
