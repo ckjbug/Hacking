@@ -25,8 +25,9 @@
 
 
 ----------
+<div align=center> 
+<img src="https://i.imgur.com/bZw1kV4.gif" width = "300" height = "300" alt="图片名称" />
 
-<img src="https://i.imgur.com/bZw1kV4.gif" width = "300" height = "300" div align=center />
 
 
 ### 💖 Kali Linux
