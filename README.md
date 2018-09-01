@@ -30,7 +30,7 @@
 ----------
 
 
-<div align=right> 
+<div align=left> 
 
 ### 💖 Kali Linux
 ...
