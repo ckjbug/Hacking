@@ -17,8 +17,8 @@
 
 
 <div align=center> 
-<img src="https://i.imgur.com/bZw1kV4.gif" width = "200" height = "200" alt="图片名称" />
-    
+<img src="https://i.imgur.com/MluYAao.gif" width = "200" height = "200" alt="图片名称" />
+    https://i.imgur.com/bZw1kV4.gif
 <br>
 <div align="center">
     <img src="![pp](https://i.imgur.com/bZw1kV4.gif)" width="200px">
