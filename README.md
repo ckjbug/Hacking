@@ -40,7 +40,8 @@
 ...
 
 ### 🌚 Dark Web
-...
+- [Hidden Wiki | Tor .onion urls directories](http://www.thehiddenwiki.org/)
+
 
 ### 🌑 Deep Web
 ...
