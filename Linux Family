@@ -11,5 +11,8 @@ debian家族
 - Ubuntu : 在debian系统上封装了许多工具，Ubuntu有着漂亮的用户界面，完善的包管理系统，强大的软件源支持，丰富的技术社区，但这也决定了它最佳的应用领域  是桌面操作系统而非服务器操作系统。
 - Kali : Kali Linux 前身是 BackTrack（基于ubuntu），是一个基于 Debian 的 Linux 发行版，包含很多安全和取证方面的相关工具。
 包的管理方式: apt--> deb
+<br>
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg">
+    <br>
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
