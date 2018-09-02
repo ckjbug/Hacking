@@ -35,7 +35,8 @@
 
 ### 💖 Kali Linux
 - [kali-Linux-learning](https://github.com/ckjbug/kali-Linux-learning)
-- [books]
+- [超全面的渗透资料💯](https://github.com/ckjbug/penetration)
+- [c]()
 
 ### ⛩ VPS/VPN
 ...
