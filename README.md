@@ -34,7 +34,7 @@
 <div align=left> 
 
 ### 💖 Kali Linux
-- [kali](https://github.com/ckjbug/kali-Linux-learning)
+- [kali-Linux-learning](https://github.com/ckjbug/kali-Linux-learning)
 - [books]
 
 ### ⛩ VPS/VPN
@@ -53,8 +53,8 @@
 ...
 
 ### ⌨ Linux
-...
-
+- [Linux 优秀软件资源大全中文版](https://github.com/0xE8551CCB/awesome-linux-software-cn) (中文)
+- [Linux家族族谱]()
 ### 🛠 Tools 
 ...
 
