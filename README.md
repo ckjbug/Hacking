@@ -34,7 +34,8 @@
 <div align=left> 
 
 ### 💖 Kali Linux
-...
+- [kali](https://github.com/ckjbug/kali-Linux-learning)
+- [books]
 
 ### ⛩ VPS/VPN
 ...
