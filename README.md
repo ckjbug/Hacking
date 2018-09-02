@@ -36,24 +36,37 @@
 - [超全面的渗透资料](https://github.com/ckjbug/penetration)
 - [Newbie-Security-List](https://github.com/findneo/Newbie-Security-List)
 - [比较杂的learn-hacking](https://github.com/tiancode/learn-hacking)
+- [...]()
+
 ### ⛩ VPS/VPN
-...
+- [VPS/VPN科普]()
+- [VPS推荐]()
+- [科学上网教程汇总]()
+- [Android、IOS移动端科学上网]()
+- [镜像站推荐]()
+- [hosts修改实现科学上网]()
+- [...]()
 
 ### 🌚 Dark Web
-- [冰山一角]()
-- [Hidden Wiki | Tor .onion urls directories](http://www.thehiddenwiki.org/)
+- [中国互联网网络网络安全法](http://law1.law-star.com/law?fn=chl533s077.txt&dbt=chl)
+- [冰山角]()
 - [Tor官网]()
 - [Tor教程]()
 
 
 ### 🌑 Deep Web
-...
+- [Hidden Wiki | Tor .onion urls directories](http://www.thehiddenwiki.org/)
+- [Sites]()
+- [...]()
 
 ### 💻 Crack
-...
+- [论坛推荐]()
+- [...]()
 
 ### 🕸 RE
-...
+- [逆向工程是什么？]()
+- [社工是什么？]()
+- [...]()
 
 ### ⌨ Linux
 - [Linux之父Linus Torvalds](https://github.com/torvalds)
@@ -62,16 +75,23 @@
 - [Linux命令大全搜索引擎](https://git.io/linux)
 
 ### 🛠 Tools 
-...
+- [PC Tools]()
+- [Android Tools]()
+- [IOS Tools]()
+- [Mac Tools]()
+- [Linux Tools]()
 
 ### ☣ Shodan
-...
+- [官网](https://www.shodan.io/explore)
+- [世界上最可怕的搜索引擎](https://www.aqniu.com/hack-geek/8817.html)
+- [获取世界各地摄像头监控记录]()
+- [...]()
 
 ### 👣 论坛
 
-[Hack80](http://www.hack80.com/)
-
-...
+- [Hack80](http://www.hack80.com/)
+- [DEFCON](https://www.defcon.org/)
+- [...]()
 
 
 :computer:其他仓库有信安的学习资料和Kali Linux的运维教程，欢迎Fork！
