@@ -35,8 +35,8 @@
 
 ### 💖 Kali Linux
 - [kali-Linux-learning](https://github.com/ckjbug/kali-Linux-learning)
-- [超全面的渗透资料💯](https://github.com/ckjbug/penetration)
-- [c]()
+- [超全面的渗透资料](https://github.com/ckjbug/penetration)
+- [Newbie-Security-List](https://github.com/findneo/Newbie-Security-List)
 
 ### ⛩ VPS/VPN
 ...
@@ -54,8 +54,11 @@
 ...
 
 ### ⌨ Linux
+- [Linux之父Linus Torvalds](https://github.com/torvalds)
 - [Linux 优秀软件资源大全中文版](https://github.com/0xE8551CCB/awesome-linux-software-cn) (中文)
 - [Linux家族族谱]()
+- [Linux命令大全搜索引擎](https://git.io/linux)
+
 ### 🛠 Tools 
 ...
 
