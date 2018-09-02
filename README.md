@@ -14,8 +14,6 @@
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
 | Kali [💖](#-kali-linux) | VPS/VPN [⛩](#-vpsvpn)|Dark Web[🌚](#-dark-web) | Deep Web[🌑](#-deep-web) |Crack [💻](#-crack)| RE [🕸](#-re)| Linux [⌨](#-linux)| Tools [🛠](#-tools)| Shodan [☣](#-shodan)| Forum [👣](#-论坛) |
-
- https://i.imgur.com/bZw1kV4.gif
  
 <div align=center> 
 <img src="https://i.imgur.com/MluYAao.gif" width = "200" height = "200" alt="图片名称" />
