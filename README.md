@@ -107,4 +107,6 @@
 
 🐘欢迎关注微信公众号：
 
-![微信公众号](https://i.imgur.com/BNX6zyB.jpg)
+<div align=left> 
+<img src="https://i.imgur.com/BNX6zyB.jpg" width = "200" height = "200" alt="微信公众号" />
+ 
