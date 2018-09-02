@@ -13,4 +13,4 @@ debian家族
 包的管理方式: apt--> deb
 
 [GNU Linux脑图](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
-
+![s](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
