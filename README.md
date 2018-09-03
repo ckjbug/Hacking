@@ -11,6 +11,7 @@
 &#9775;
 [Hidden Wiki | Tor .onion urls directories](http://www.thehiddenwiki.org/)
 
+   https://i.imgur.com/bZw1kV4.gif
 
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
@@ -18,11 +19,11 @@
 | Kali [💖](#-kali-linux) | VPS/VPN [⛩](#-vpsvpn)|Dark Web[🌚](#-dark-web) | Deep Web[🌑](#-deep-web) |Crack [💻](#-crack)| RE [🕸](#-re)| Linux [⌨](#-linux)| Tools [🛠](#-tools)| Shodan [☣](#-shodan)| Forum [👣](#-论坛) |
  
 <div align=center> 
-<img src="https://i.imgur.com/MluYAao.gif" width = "200" height = "200" alt="图片名称" />
-   https://i.imgur.com/bZw1kV4.gif
+<img src="https://www.easyicon.net/api/resizeApi.php?id=1199897&size=128" width = "200" height = "200" alt="图片名称" />
+
 <br>
 <div align="center">
-    <img src="![pp](https://www.easyicon.net/api/resizeApi.php?id=1727&size=72)" width="200px">
+    
     <br>
     <a href="Asciinema.md"> <img src="https://img.shields.io/badge/>-group-4ab8a1.svg"></a>
     <a href="https://legacy.gitbook.com/@wizardforcel"> <img src="https://img.shields.io/badge/_-gitbook-4ab8a1.svg"></a> 
