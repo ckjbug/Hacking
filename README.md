@@ -19,10 +19,10 @@
  
 <div align=center> 
 <img src="https://i.imgur.com/MluYAao.gif" width = "200" height = "200" alt="图片名称" />
-   
+   https://i.imgur.com/bZw1kV4.gif
 <br>
 <div align="center">
-    <img src="![pp](https://i.imgur.com/bZw1kV4.gif)" width="200px">
+    <img src="![pp](https://www.easyicon.net/api/resizeApi.php?id=1727&size=72)" width="200px">
     <br>
     <a href="Asciinema.md"> <img src="https://img.shields.io/badge/>-group-4ab8a1.svg"></a>
     <a href="https://legacy.gitbook.com/@wizardforcel"> <img src="https://img.shields.io/badge/_-gitbook-4ab8a1.svg"></a> 
