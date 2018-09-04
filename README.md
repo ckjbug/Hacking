@@ -15,7 +15,7 @@
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#-vpsvpn)|Dark Web[🌚](#-dark-web) | Deep Web[🌑](#-deep-web) |Crack [💻](#-crack)| RE [🕸](#-re)| Linux  [![](https://www.easyicon.net/api/resizeApi.php?id=11064&size=24)](#-linux)| Tools [🛠](#-tools)| Shodan [☣](#-shodan)| Forum [👣](#-论坛) |
+| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#-vpsvpn)|Dark Web[🌚](#-dark-web) | Deep Web[🌑](#-deep-web) |Crack [💻](#-crack)| RE [🕸](#-re)| Linux [![linux](https://www.easyicon.net/api/resizeApi.php?id=11064&size=24)](#-linux)| Tools [🛠](#-tools)| Shodan [☣](#-shodan)| Forum [👣](#-论坛) |
  
 <br>
 <div align="center">
