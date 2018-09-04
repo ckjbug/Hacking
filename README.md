@@ -15,7 +15,7 @@
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#-vpsvpn)|Dark Web[🌚](#-dark-web) | Deep Web[🌑](#-deep-web) |Crack [💻](#-crack)| RE [🕸](#-re)| Linux [![](https://www.easyicon.net/api/resizeApi.php?id=11064&size=24)](#-linux)| Tools [🛠](#-tools)| Shodan [☣](#-shodan)| Forum [👣](#-论坛) |
+| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#-vpsvpn)|Dark Web[🌚](#-dark-web) | Deep Web[🌑](#-deep-web) |Crack [💻](#-crack)| RE [🕸](#-re)| Linux  [![](https://www.easyicon.net/api/resizeApi.php?id=11064&size=24)](#-linux)| Tools [🛠](#-tools)| Shodan [☣](#-shodan)| Forum [👣](#-论坛) |
  
 <br>
 <div align="center">
@@ -67,7 +67,7 @@
 - [社工是什么？]()
 - [...]()
 
-### ⌨ Linux
+### ![](https://www.easyicon.net/api/resizeApi.php?id=11064&size=24) Linux
 - [Linux之父Linus Torvalds](https://github.com/torvalds)
 - [Linux 优秀软件资源大全中文版](https://github.com/0xE8551CCB/awesome-linux-software-cn) (中文)
 - [Linux家族族谱](https://github.com/ckjbug/Hacking/blob/master/Linux%20Family.md)
