@@ -39,7 +39,7 @@
 
 ### ⛩ VPS/VPN
 - [VPS/VPN科普]()
-- [VPS推荐]()
+- [VPS推荐](https://github.com/ckjbug/Hacking/blob/master/VPS_VPN/VPSRecommend.md)
 - [科学上网教程汇总]()
 - [Android、IOS移动端科学上网]()
 - [镜像站推荐]()
