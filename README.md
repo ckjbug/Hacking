@@ -107,3 +107,5 @@
 <div align=left> 
 <img src="https://i.imgur.com/BNX6zyB.jpg" width = "200" height = "200" alt="微信公众号" />
  
+ 
+ ![段位1视频](https://wfaimage.blob.core.chinacloudapi.cn/movie/段位1.mp4)
