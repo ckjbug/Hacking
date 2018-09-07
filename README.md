@@ -107,9 +107,4 @@
 <div align=left> 
 <img src="https://i.imgur.com/BNX6zyB.jpg" width = "200" height = "200" alt="微信公众号" />
  
-$$
-\begin{equation}
-  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
-\end{equation}
-$$
  
