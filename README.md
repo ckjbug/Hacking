@@ -107,4 +107,8 @@
 <div align=left> 
 <img src="https://i.imgur.com/BNX6zyB.jpg" width = "200" height = "200" alt="微信公众号" />
  
+ License
  
+ ------------
+ 
+ 版权所有（c）2016 ckjbug
