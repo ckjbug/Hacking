@@ -3,7 +3,8 @@
 #### 渗透艺术--kali Linux
 #### 信息安全科学--网络攻防
 #### 科学上网
-----------
+![](https://raw.githubusercontent.com/ckjbug/xiaokui/master/split.png)
+
 ⚠注意：作者只是学习网络信息安全，热爱开源，没有恶意传播，请勿扰乱网络环境，用于违法犯纪者后果自负！
 
 🐋项目待完善，欢迎大家补充、Fork！
@@ -25,8 +26,7 @@
     <a href="https://legacy.gitbook.com/@wizardforcel"> <img src="https://img.shields.io/badge/_-gitbook-4ab8a1.svg"></a> 
 </div>
 
-----------
-
+![](https://raw.githubusercontent.com/ckjbug/xiaokui/master/split.png)
 
 <div align=left> 
 
@@ -95,7 +95,8 @@
 
 :computer:其他仓库有信安的学习资料和Kali Linux的运维教程，欢迎Fork！
 
-----------------------------
+![](https://raw.githubusercontent.com/ckjbug/xiaokui/master/split.png)
+
 ### 加入我们
 
 💬欢迎加QQ交流学习群：5⃣2⃣8⃣3⃣1⃣4⃣2⃣2⃣6⃣ 
