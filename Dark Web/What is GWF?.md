@@ -5,6 +5,11 @@
 
 #### GWF = Great FireWall 
 
+<div align="center">
+    <img src="https://www.easyicon.net/api/resizeApi.php?id=1093673&size=128" width="200px">
+    <br>
+</div>
+
 防火长城，也称中国防火墙或中国国家防火墙，指中华人民共和国政府在其管辖互联网内部建立的多套网络审查系统的总称，包括相关行政审查系统。其英文名称Great Firewall of China（与长城 Great Wall 相谐的效果），简写为Great Firewall，缩写GFW。随着使用的广泛，GFW已被用于动词，GFWed是指被防火长城所屏蔽。 
 
 一般情况下防火长城主要指中国对互联网内容进行自动审查和过滤监控、由计算机路由器等网络设备所构成的软硬件系统。由于中国网络审查较为完备，中国国内的不合适网站会直接行政干预和关闭，故防火长城主要作用在于对中国境内外的网络信息互相访问进行分析、过滤、阻断。 
