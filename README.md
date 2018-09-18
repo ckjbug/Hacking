@@ -16,7 +16,7 @@
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#-vpsvpn)|Dark Web[🌚](#-dark-web) | Deep Web[🌑](#-deep-web) |Crack [💻](#-crack)| RE [🕸](#-re)| Linux [🐧](#-linux)| Tools [🛠](#-tools)| Shodan [☣](#-shodan)| Forum [👣](#-论坛) |
+| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#-vpsvpn)|Dark Web[🌚](#-dark-web) | Deep Web[🌑](#-deep-web) |Crack [💻](#-crack)| RE [🕸](#-re)| Linux [🐧](#-linux)| Tools [🛠](#-tools)| Programming [☣](#-programming)| Forum [👣](#-论坛) |
  
 <br>
 <div align="center">
@@ -35,7 +35,7 @@
 - [超全面的渗透资料](https://github.com/ckjbug/penetration)
 - [Newbie-Security-List](https://github.com/findneo/Newbie-Security-List)
 - [比较杂的learn-hacking](https://github.com/tiancode/learn-hacking)
-- [OpenWrt软路由科学上网]()
+- [...]()
 
 ### ⛩ VPS/VPN
 - [VPS/VPN科普]()
@@ -44,7 +44,8 @@
 - [Android、IOS移动端科学上网]()
 - [镜像站推荐]()
 - [hosts修改实现科学上网]()
-- [...]()
+- [OpenWrt软路由科学上网](https://github.com/ckjbug/Hacking/blob/master/VPS_VPN/OpenWrt2VPN.md)
+
 
 ### 🌚 Dark Web
 - [中国互联网网络网络安全法](http://law1.law-star.com/law?fn=chl533s077.txt&dbt=chl)
@@ -80,12 +81,16 @@
 - [IOS Tools]()
 - [Mac Tools]()
 - [Linux Tools]()
-
-### ☣ Shodan
-- [官网](https://www.shodan.io/explore)
+- [Online Tools]()
+- [Shodan官网](https://www.shodan.io/explore)
 - [世界上最可怕的搜索引擎](https://www.aqniu.com/hack-geek/8817.html)
-- [获取世界各地摄像头监控记录]()
-- [...]()
+
+### ☣ Programming
+- [JavaScript]()
+- [Typescript]()
+- [C/C++]()
+- [C#/.Net/VB]()
+- [Rust]()
 
 ### 👣 论坛
 
