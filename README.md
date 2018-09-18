@@ -35,7 +35,7 @@
 - [超全面的渗透资料](https://github.com/ckjbug/penetration)
 - [Newbie-Security-List](https://github.com/findneo/Newbie-Security-List)
 - [比较杂的learn-hacking](https://github.com/tiancode/learn-hacking)
-- [...]()
+- [OpenWrt软路由科学上网]()
 
 ### ⛩ VPS/VPN
 - [VPS/VPN科普]()
