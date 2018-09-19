@@ -34,7 +34,7 @@
 - [kali-Linux-learning](https://github.com/ckjbug/kali-Linux-learning)
 - [超全面的渗透资料](https://github.com/ckjbug/penetration)
 - [Newbie-Security-List](https://github.com/findneo/Newbie-Security-List)
-- [比较杂的learn-hacking](https://github.com/tiancode/learn-hacking)
+- [杂七杂八-learn-hacking](https://github.com/tiancode/learn-hacking)
 - [...]()
 
 ### ⛩ VPS/VPN
