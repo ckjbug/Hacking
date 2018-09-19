@@ -42,7 +42,6 @@
 - [VPS推荐](https://github.com/ckjbug/Hacking/blob/master/VPS_VPN/VPSRecommend.md)
 - [科学上网教程汇总]()
 - [Android、IOS移动端科学上网]()
-- [镜像站推荐]()
 - [hosts修改实现科学上网]()
 - [OpenWrt软路由科学上网](https://github.com/ckjbug/Hacking/blob/master/VPS_VPN/OpenWrt2VPN.md)
 
