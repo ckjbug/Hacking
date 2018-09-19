@@ -16,7 +16,7 @@
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#-vpsvpn)|Dark Web[🌚](#-dark-web) | Deep Web[🌑](#-deep-web) |Crack [💻](#-crack)| RE [🕸](#-re)| Linux [🐧](#-linux)| Tools [🛠](#-tools)| Programming [☣](#-programming)| Forum [👣](#-论坛) |
+| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#-vpsvpn)|Dark Web[🌚](#-dark-web) | Shadow Web[🌑](#-shadow-web) |Crack [💻](#-crack)| RE [🕸](#-re)| Linux [🐧](#-linux)| Tools [🛠](#-tools)| Programming [☣](#-programming)| Forum [👣](#-论坛) |
  
 <br>
 <div align="center">
@@ -49,14 +49,14 @@
 ### 🌚 Dark Web
 - [中国互联网网络网络安全法](http://law1.law-star.com/law?fn=chl533s077.txt&dbt=chl)
 - [中国长城防火墙]()
-- [冰山角]()
+- [冰山之角]()
 - [Tor官网]()
 - [Tor教程]()
 
 
-### 🌑 Deep Web
+### 🌑 Shadow Web
 - [Hidden Wiki | Tor .onion urls directories](http://www.thehiddenwiki.org/)
-- [Sites]()
+- [海底十万里]()
 - [...]()
 
 ### 💻 Crack
