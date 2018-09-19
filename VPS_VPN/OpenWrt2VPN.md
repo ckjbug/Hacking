@@ -6,6 +6,10 @@
 
 ![](https://raw.githubusercontent.com/ckjbug/xiaokui/master/split.png)
 
+#### 软路由是什么？有哪些软路由？
+
+软路由其实就是
+
 #### OpenWrt是什么？
 
 OpenWrt是一个嵌入式Linux发行版，可以安装在各种路由器上。OpenWrt有一个Web界面，它可能比您硬件的默认固件更稳定。
