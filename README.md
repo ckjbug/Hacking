@@ -50,8 +50,8 @@
 - [中国互联网网络网络安全法](http://law1.law-star.com/law?fn=chl533s077.txt&dbt=chl)
 - [中国长城防火墙]()
 - [冰山之角]()
-- [Tor官网]()
-- [Tor教程]()
+- [Tor官网](http://torproject.org/)
+- [Tor教程](https://www.cnblogs.com/AloneSword/p/4189128.html)
 
 
 ### 🌑 Shadow Web
