@@ -12,7 +12,11 @@
 &#9775;
 [Hidden Wiki | Tor .onion urls directories](http://www.thehiddenwiki.org/)
 
-⌨
+⌨ [Deep Web Sites 2019 | Dark Web | Deep Web Links | Hidden Wiki](https://www.deepweb-sites.com/)
+
+👣 [DarkWebNews](https://darkwebnews.com/)
+
+☣ [TOR2WEB](https://www.onion.to/)
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
