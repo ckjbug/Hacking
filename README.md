@@ -100,6 +100,7 @@
 
 - [Hack80](http://www.hack80.com/)
 - [DEFCON](https://www.defcon.org/)
+- [Hacker News](https://news.ycombinator.com/)
 - [...]()
 
 
