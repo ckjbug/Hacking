@@ -9,6 +9,15 @@
 
 🐋项目待完善，欢迎大家补充、Fork！
 
+&#9775;
+[Hidden Wiki | Tor .onion urls directories](http://www.thehiddenwiki.org/)
+
+⌨ [Deep Web Sites 2019 | Dark Web | Deep Web Links | Hidden Wiki](https://www.deepweb-sites.com/)
+
+👣 [DarkWebNews](https://darkwebnews.com/)
+
+☣ [TOR2WEB](https://www.onion.to/)
+
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
@@ -52,6 +61,7 @@
 
 ### 🌑 Shadow Web
 - [Hidden Wiki | Tor .onion urls directories](http://www.thehiddenwiki.org/)
+- [海底十万里](https://github.com/ckjbug/Hacking/blob/master/Shadow%20Web/%E6%B5%B7%E5%BA%95%E5%8D%81%E4%B8%87%E9%87%8C.md)
 - [...]()
 
 ### 💻 Crack
