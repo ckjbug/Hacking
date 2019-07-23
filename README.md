@@ -14,7 +14,7 @@
 
 ⌨ [Deep Web Sites 2019 | Dark Web | Deep Web Links | Hidden Wiki](https://www.deepweb-sites.com/)
 
-👣 [DarkWebNews](https://darkwebnews.com/)
+👣 [What is Tor](https://2019.www.torproject.org/index.html.en)
 
 ☣ [TOR2WEB](https://www.onion.to/)
 
@@ -57,6 +57,7 @@
 - [冰山之角]()
 - [Tor官网](http://torproject.org/)
 - [Tor教程](https://www.cnblogs.com/AloneSword/p/4189128.html)
+- [THE DARK WEB & DEEP WEB: HOW TO ACCESS THE HIDDEN INTERNET TODAY](https://digital.com/blog/deep-dark-web/)
 
 
 ### 🌑 Shadow Web
