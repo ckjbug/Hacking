@@ -59,7 +59,7 @@
 - [Tor教程](https://www.cnblogs.com/AloneSword/p/4189128.html)
 - [THE DARK WEB & DEEP WEB: HOW TO ACCESS THE HIDDEN INTERNET TODAY](https://digital.com/blog/deep-dark-web/)
 - [dark.fail](http://dark.fail)
-- [thedarkweblinks](https://www.thedarkweblinks.com/4/)
+- [thedarkweblinks](https://www.thedarkweblinks.com/)
 - [darkwebwiki](http://darkwebwiki.org)
 - [deeponionweb](http://deeponionweb.com)
 
