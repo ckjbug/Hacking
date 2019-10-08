@@ -61,7 +61,7 @@
 - [dark.fail](http://dark.fail)
 - [thedarkweblinks](https://www.thedarkweblinks.com/)
 - [darkwebwiki](http://darkwebwiki.org)
-- [deeponionweb](http://deeponionweb.com)
+<!-- - [deeponionweb](http://deeponionweb.com) -->
 
 
 ### 🌑 Shadow Web
