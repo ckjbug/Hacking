@@ -45,11 +45,11 @@
 ### ⛩ VPS/VPN
 - [VPS/VPN科普](https://github.com/ckjbug/Hacking/blob/master/VPS_VPN/VPS_VPN_Recommend.md)
 - [VPS推荐](https://github.com/ckjbug/Hacking/blob/master/VPS_VPN/VPSRecommend.md)
-- [科学上网教程汇总]()
+- [科学上网教程汇总](https://github.com/Alvin9999/new-pac/wiki)
 - [Android、IOS移动端科学上网]()
 - [hosts修改实现科学上网]()
 - [OpenWrt软路由科学上网](https://github.com/ckjbug/Hacking/blob/master/VPS_VPN/OpenWrt2VPN.md)
-
+- [全球十大暗网搜索引擎(知乎)](https://zhuanlan.zhihu.com/p/112958104)
 
 ### 🌚 Dark Web
 - [中国互联网网络网络安全法](http://law1.law-star.com/law?fn=chl533s077.txt&dbt=chl)
