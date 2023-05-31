@@ -122,6 +122,3 @@ Please state the reason for joining the group, otherwise, it will be rejected.
  
  ------------
  
- Have a cup of coffee!!!
-
- <img src="https://raw.githubusercontent.com/ckjbug/xiaokui/master/image/%
