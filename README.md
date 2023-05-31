@@ -1,4 +1,4 @@
-# Hacking
+# Hacking[English]()
 ### Collate and develop network security, Hackers technical documentation and tools, code.
 #### 渗透艺术--kali Linux
 #### 信息安全科学--网络攻防
@@ -23,17 +23,8 @@
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
 | Kali [💖](#-kali-linux) | VPS/VPN [⛩](#-vpsvpn)|Dark Web[🌚](#-dark-web) | Shadow Web [🌑](#-shadow-web) |Crack [💻](#-crack)| RE [🕸](#-re)| Linux [🐧](#-linux)| Tools [🛠](#-tools)| Program [☣](#-programming)| Forum [👣](#-论坛) |
  
-<br>
-<div align="center">
-    <img src="https://www.easyicon.net/api/resizeApi.php?id=1199897&size=128" width = "128" height = "128" alt="图片名称" />
-    <br>
-    <a href="Asciinema.md"> <img src="https://img.shields.io/badge/>-group-4ab8a1.svg"></a>
-    <a href="https://legacy.gitbook.com/@wizardforcel"> <img src="https://img.shields.io/badge/_-gitbook-4ab8a1.svg"></a> 
-</div>
 
-![](https://raw.githubusercontent.com/ckjbug/xiaokui/master/split.png)
 
-<div align=left> 
 
 ### 💖 Kali Linux
 - [kali-Linux-learning](https://github.com/ckjbug/kali-Linux-learning)
@@ -116,7 +107,7 @@
 
 ### 加入我们
 
-💬欢迎加QQ交流学习群：5⃣2⃣8⃣3⃣1⃣4⃣2⃣2⃣6⃣ 
+💬欢迎加QQ交流学习群：528314226
 
 电报群：[Telegram Group](https://t.me/joinchat/NID1EkfX45PC43vd4Mf8aw)
 
@@ -136,4 +127,4 @@
  <img src="https://raw.githubusercontent.com/ckjbug/xiaokui/master/image/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg" width = "400" alt="微信公众号" />
  <img src="https://raw.githubusercontent.com/ckjbug/xiaokui/master/image/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpg" width = "400" alt="微信公众号" />
  
- 版权所有 © 2016-2021 ckjbug
+ 版权所有 © 2016-2023 ckjbug
